@@ -1,0 +1,280 @@
+{
+  "personal_info": {
+    "name": "Miguel Santos Rodríguez",
+    "birth_date": "1985-11-23",
+    "birth_place": "Barcelona, Spain",
+    "nationality": "Spanish",
+    "current_location": "Mexico City, Mexico",
+    "occupation": "Multimedia Artist & Digital Storyteller",
+    "pronouns": "he/him"
+  },
+  "early_life": {
+    "family_background": {
+      "father": "Carlos Rodríguez - Architect (deceased 2012)",
+      "mother": "Isabella Santos - Flamenco dancer and choreographer",
+      "siblings": [
+        {
+          "name": "Carmen Rodríguez",
+          "relationship": "Older sister",
+          "occupation": "Environmental lawyer"
+        },
+        {
+          "name": "Diego Rodríguez",
+          "relationship": "Younger brother",
+          "occupation": "Jazz musician"
+        }
+      ]
+    },
+    "childhood": {
+      "key_moments": [
+        "Age 6: First exposure to digital art through father's architectural software",
+        "Age 8: Created first animated story using MS Paint",
+        "Age 12: Won regional art competition with digital collage",
+        "Age 15: Started learning programming to create interactive art"
+      ],
+      "influences": [
+        "Antoni Gaudí's organic architecture",
+        "Salvador Dalí's surrealism",
+        "Early video games (Super Mario, Zelda)",
+        "Traditional Spanish folk tales"
+      ]
+    }
+  },
+  "education": {
+    "formal_education": [
+      {
+        "institution": "Escola Massana, Barcelona",
+        "degree": "Bachelor of Fine Arts",
+        "years": "2003-2007",
+        "focus": "Digital Media and Interactive Design",
+        "achievements": ["Valedictorian", "Best Digital Art Portfolio"]
+      },
+      {
+        "institution": "Parsons School of Design, New York",
+        "degree": "Master of Fine Arts",
+        "years": "2007-2009",
+        "focus": "Design and Technology",
+        "thesis": "Narrative Architecture in Virtual Spaces"
+      }
+    ],
+    "self_education": [
+      "Advanced JavaScript and WebGL programming",
+      "Machine learning for creative applications",
+      "Traditional animation techniques",
+      "Sound design and music production"
+    ]
+  },
+  "career_timeline": {
+    "2009-2012": {
+      "position": "Creative Technologist",
+      "company": "Pixar Animation Studios",
+      "location": "Emeryville, CA",
+      "achievements": [
+        "Developed new rendering techniques for 'Brave'",
+        "Created interactive museum installations",
+        "Mentored 5 junior artists"
+      ]
+    },
+    "2012-2016": {
+      "position": "Lead Digital Artist",
+      "company": "Google Creative Lab",
+      "location": "San Francisco, CA",
+      "achievements": [
+        "Designed Google Doodles for 50+ countries",
+        "Created AR experiences for Google Arts & Culture",
+        "Led team of 12 artists and developers"
+      ]
+    },
+    "2016-2020": {
+      "position": "Independent Artist",
+      "location": "Barcelona, Spain",
+      "achievements": [
+        "Solo exhibitions in 15 countries",
+        "Created viral digital art installations",
+        "Published 3 books on digital storytelling"
+      ]
+    },
+    "2020-present": {
+      "position": "Creative Director",
+      "company": "Museo Digital de Arte Contemporáneo",
+      "location": "Mexico City, Mexico",
+      "achievements": [
+        "Transformed traditional museum into digital-first experience",
+        "Launched NFT marketplace for Latin American artists",
+        "Created immersive VR exhibitions"
+      ]
+    }
+  },
+  "artistic_style": {
+    "primary_mediums": [
+      "Interactive digital installations",
+      "Generative art using AI",
+      "Virtual reality experiences",
+      "Mixed reality performances"
+    ],
+    "themes": [
+      "Cultural identity and migration",
+      "Technology and human connection",
+      "Environmental consciousness",
+      "Memory and nostalgia"
+    ],
+    "signature_techniques": [
+      "Real-time data visualization",
+      "AI-generated narratives",
+      "Participatory art experiences",
+      "Cross-cultural storytelling"
+    ]
+  },
+  "notable_works": [
+    {
+      "title": "Memories of the Sea",
+      "year": 2018,
+      "type": "Interactive installation",
+      "description": "AI-powered installation that creates personalized stories based on visitors' memories of the ocean",
+      "exhibitions": ["MOMA", "Tate Modern", "Guggenheim Bilbao"],
+      "awards": ["Golden Nica - Ars Electronica", "Webby Award for Best Art"]
+    },
+    {
+      "title": "Digital Flamenco",
+      "year": 2020,
+      "type": "VR performance",
+      "description": "Virtual reality experience combining traditional flamenco with digital art",
+      "collaborators": ["National Ballet of Spain", "MIT Media Lab"],
+      "impact": "Viewed by 2.3 million people globally"
+    },
+    {
+      "title": "The Migration Project",
+      "year": 2021,
+      "type": "Generative art series",
+      "description": "AI-generated art based on migration patterns and personal stories",
+      "data_sources": ["UN Migration Data", "Personal interviews"],
+      "exhibitions": ["Venice Biennale", "Documenta 15"]
+    }
+  ],
+  "awards_and_recognition": [
+    {
+      "year": 2023,
+      "award": "Princess of Asturias Award for Arts",
+      "category": "Digital Innovation in Art"
+    },
+    {
+      "year": 2022,
+      "award": "MacArthur Fellowship",
+      "amount": "$800,000",
+      "reason": "Pioneering work in digital storytelling and cultural preservation"
+    },
+    {
+      "year": 2021,
+      "award": "Golden Lion - Venice Biennale",
+      "category": "Best Digital Installation"
+    },
+    {
+      "year": 2020,
+      "award": "Webby Lifetime Achievement Award",
+      "category": "Digital Art"
+    }
+  ],
+  "personal_life": {
+    "relationships": {
+      "partner": {
+        "name": "Dr. Ana María González",
+        "occupation": "Anthropologist",
+        "relationship_status": "Married since 2015",
+        "children": [
+          {
+            "name": "Luna Rodríguez González",
+            "birth_year": 2017,
+            "interests": ["Drawing", "Coding", "Dancing"]
+          },
+          {
+            "name": "Santiago Rodríguez González",
+            "birth_year": 2020,
+            "interests": ["Music", "Robots", "Nature"]
+          }
+        ]
+      }
+    },
+    "hobbies": [
+      {
+        "activity": "Cooking",
+        "specialty": "Fusion of Spanish and Mexican cuisine",
+        "frequency": "Daily"
+      },
+      {
+        "activity": "Hiking",
+        "favorite_locations": ["Sierra Nevada", "Popocatépetl", "Pyrenees"],
+        "frequency": "Weekly"
+      },
+      {
+        "activity": "Playing guitar",
+        "style": "Flamenco and folk",
+        "frequency": "Several times per week"
+      }
+    ],
+    "philosophy": {
+      "art_purpose": "To bridge cultural divides and create empathy through technology",
+      "life_motto": "Art should be accessible to everyone, everywhere",
+      "inspiration": "The intersection of tradition and innovation"
+    }
+  },
+  "challenges_and_growth": {
+    "personal_struggles": [
+      {
+        "year": 2012,
+        "event": "Father's death from cancer",
+        "impact": "Inspired 'Memories of the Sea' project",
+        "coping": "Intensive therapy and art creation"
+      },
+      {
+        "year": 2018,
+        "event": "Creative burnout",
+        "impact": "Took 6-month sabbatical",
+        "recovery": "Traveled through Latin America, reconnected with roots"
+      },
+      {
+        "year": 2020,
+        "event": "COVID-19 pandemic",
+        "impact": "Pivoted to virtual exhibitions",
+        "outcome": "Discovered new possibilities in digital art"
+      }
+    ],
+    "professional_challenges": [
+      "Balancing commercial work with artistic integrity",
+      "Navigating the male-dominated tech art world",
+      "Maintaining relevance in rapidly evolving digital landscape"
+    ]
+  },
+  "future_plans": {
+    "short_term": [
+      "Launch of 'Digital Heritage' initiative",
+      "Creation of AI-powered art education platform",
+      "Collaboration with indigenous artists"
+    ],
+    "long_term": [
+      "Establishment of digital art school in Mexico",
+      "Development of sustainable art technology",
+      "Creation of global digital art archive"
+    ],
+    "legacy_goals": [
+      "Democratize access to digital art creation",
+      "Preserve cultural heritage through technology",
+      "Inspire next generation of digital artists"
+    ]
+  },
+  "quotes": [
+    "Technology is just another brush in the artist's toolkit.",
+    "The most powerful art is that which makes us feel less alone.",
+    "Cultural heritage is not static - it evolves with each generation.",
+    "Digital art is not about replacing tradition, but amplifying it."
+  ],
+  "social_media": {
+    "instagram": "@miguel_santos_art",
+    "twitter": "@miguel_santos_digital",
+    "website": "www.miguelsantos.art",
+    "followers": {
+      "instagram": "450000",
+      "twitter": "280000",
+      "youtube": "120000"
+    }
+  }
+} 
