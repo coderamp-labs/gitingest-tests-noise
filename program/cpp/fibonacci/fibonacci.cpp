@@ -1,3 +1,12 @@
+/**
+ * @file fibonacci.cpp
+ * @author Ahmed Al-Mansouri (ahmed@bridgesforpeace.org)
+ * @brief Fibonacci implementation in C++
+ * @date 2025-08-04
+ *
+ * @copyright Copyright Bridges for Peace (c) 2025
+ */
+
 #include "fibonacci.h"
 #include <iostream>
 #include <iomanip>
